@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Ghulam Yasin - E-Commerce Specialist",
+    "slug": "ghulam-yasin-ecommerce",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1F3A"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Ghulam Yasin - E-Commerce Specialist",
+      "shortName": "Ghulam Yasin",
+      "description": "Your E-Commerce Growth Partner. Amazon, eBay, Walmart, TikTok Shop, Etsy, Shopify and OnBuy management.",
+      "themeColor": "#0B1F3A",
+      "backgroundColor": "#F7F9FC"
+    }
+  }
+}
