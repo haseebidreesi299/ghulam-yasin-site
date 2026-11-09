@@ -715,3 +715,55 @@
 {"_e":"metro:bundling:failed","_t":1792448470308,"id":null,"message":"SyntaxError: C:\\Users\\Muhammad Haseeb\\Downloads\\ghulam-yasin-site\\App.js: Unexpected token, expected \"jsxTagEnd\" (1196:8)\n\n  1194 |             ) : null}\n  1195 | </vi\n> 1196 |         {/* ---------------- CONTACT ---------------- */}\n       |         ^\n  1197 |         <View onLayout={onSection('contact')}>\n  1198 |           <LinearGradient\n  1199 |             colors={[C.navy, C.navy2, C.navy3]}","importStack":null,"filename":"App.js","targetModuleName":null,"originModulePath":null}
 {"_e":"metro:bundling:failed","_t":1792448471722,"id":null,"message":"SyntaxError: C:\\Users\\Muhammad Haseeb\\Downloads\\ghulam-yasin-site\\App.js: Unexpected token, expected \"jsxTagEnd\" (1196:8)\n\n  1194 |             ) : null}\n  1195 | </view\n> 1196 |         {/* ---------------- CONTACT ---------------- */}\n       |         ^\n  1197 |         <View onLayout={onSection('contact')}>\n  1198 |           <LinearGradient\n  1199 |             colors={[C.navy, C.navy2, C.navy3]}","importStack":null,"filename":"App.js","targetModuleName":null,"originModulePath":null}
 {"_e":"metro:bundling:failed","_t":1792448473421,"id":null,"message":"SyntaxError: C:\\Users\\Muhammad Haseeb\\Downloads\\ghulam-yasin-site\\App.js: Expected corresponding JSX closing tag for <View>. (1195:0)\n\n  1193 |               </View>\n  1194 |             ) : null}\n> 1195 | </view>\n       | ^\n  1196 |         {/* ---------------- CONTACT ---------------- */}\n  1197 |         <View onLayout={onSection('contact')}>\n  1198 |           <LinearGradient","importStack":null,"filename":"App.js","targetModuleName":null,"originModulePath":null}
+{"_e":"root:init","_t":1792610397439,"format":"v0-jsonl","version":"57.0.28"}
+{"_e":"env:mode","_t":1792610397442,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792610397451,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792610399530,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792610402246,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792610404410,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792610413031,"atlas":false,"workers":3,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1792610744465,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1792610744468,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792610744486,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792610744603,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1792610744819,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1792610744948,"id":"1","progress":0.25,"total":16,"current":8}
+{"_e":"metro:bundling:progress","_t":1792610745050,"id":"1","progress":0.25,"total":45,"current":14}
+{"_e":"metro:bundling:progress","_t":1792610745156,"id":"1","progress":0.4148233266302786,"total":59,"current":38}
+{"_e":"metro:bundling:progress","_t":1792610745261,"id":"1","progress":0.6673279111287443,"total":71,"current":58}
+{"_e":"metro:bundling:progress","_t":1792610745367,"id":"1","progress":0.6944444444444445,"total":84,"current":70}
+{"_e":"metro:bundling:progress","_t":1792610745481,"id":"1","progress":0.6944444444444445,"total":101,"current":83}
+{"_e":"metro:bundling:progress","_t":1792610745588,"id":"1","progress":0.6944444444444445,"total":121,"current":94}
+{"_e":"metro:bundling:progress","_t":1792610745692,"id":"1","progress":0.6944444444444445,"total":129,"current":100}
+{"_e":"metro:bundling:progress","_t":1792610745814,"id":"1","progress":0.7748958539972228,"total":142,"current":125}
+{"_e":"metro:bundling:progress","_t":1792610746001,"id":"1","progress":0.8125371950009919,"total":142,"current":128}
+{"_e":"metro:bundling:progress","_t":1792610746102,"id":"1","progress":0.8831470460153868,"total":166,"current":156}
+{"_e":"metro:bundling:progress","_t":1792610746207,"id":"1","progress":0.9889197530864198,"total":180,"current":179}
+{"_e":"metro:bundling:progress","_t":1792610749873,"id":"1","progress":0.999,"total":180,"current":180}
+{"_e":"metro:bundling:progress","_t":1792610749981,"id":"1","progress":0.999,"total":218,"current":180}
+{"_e":"metro:bundling:progress","_t":1792610750089,"id":"1","progress":0.999,"total":220,"current":187}
+{"_e":"metro:bundling:progress","_t":1792610750194,"id":"1","progress":0.999,"total":242,"current":196}
+{"_e":"metro:bundling:progress","_t":1792610750295,"id":"1","progress":0.999,"total":269,"current":202}
+{"_e":"metro:bundling:progress","_t":1792610750396,"id":"1","progress":0.999,"total":277,"current":209}
+{"_e":"metro:bundling:progress","_t":1792610750496,"id":"1","progress":0.999,"total":306,"current":242}
+{"_e":"metro:bundling:progress","_t":1792610750598,"id":"1","progress":0.999,"total":336,"current":254}
+{"_e":"metro:bundling:progress","_t":1792610750717,"id":"1","progress":0.999,"total":336,"current":257}
+{"_e":"metro:bundling:progress","_t":1792610750877,"id":"1","progress":0.999,"total":336,"current":258}
+{"_e":"metro:bundling:progress","_t":1792610750893,"id":"1","progress":0.999,"total":336,"current":259}
+{"_e":"metro:bundling:progress","_t":1792610750998,"id":"1","progress":0.999,"total":355,"current":266}
+{"_e":"metro:bundling:progress","_t":1792610751100,"id":"1","progress":0.999,"total":369,"current":309}
+{"_e":"metro:bundling:progress","_t":1792610751210,"id":"1","progress":0.999,"total":374,"current":328}
+{"_e":"metro:bundling:progress","_t":1792610751311,"id":"1","progress":0.999,"total":383,"current":345}
+{"_e":"metro:bundling:progress","_t":1792610751411,"id":"1","progress":0.999,"total":393,"current":369}
+{"_e":"metro:bundling:progress","_t":1792610751512,"id":"1","progress":0.999,"total":398,"current":373}
+{"_e":"metro:bundling:progress","_t":1792610751612,"id":"1","progress":0.999,"total":410,"current":386}
+{"_e":"metro:bundling:progress","_t":1792610751714,"id":"1","progress":0.999,"total":410,"current":391}
+{"_e":"metro:bundling:progress","_t":1792610751968,"id":"1","progress":0.999,"total":411,"current":397}
+{"_e":"metro:bundling:progress","_t":1792610752166,"id":"1","progress":0.999,"total":412,"current":397}
+{"_e":"metro:bundling:progress","_t":1792610752267,"id":"1","progress":0.999,"total":427,"current":408}
+{"_e":"metro:bundling:progress","_t":1792610752383,"id":"1","progress":0.999,"total":436,"current":434}
+{"_e":"metro:bundling:progress","_t":1792610752902,"id":"1","progress":0.999,"total":436,"current":435}
+{"_e":"metro:bundling:progress","_t":1792610753002,"id":"1","progress":0.999,"total":436,"current":436}
+{"_e":"metro:bundling:done","_t":1792610753118,"id":"1","total":436,"ms":8652.7938}
+{"_e":"metro:client_log","_t":1792610754602,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792610754604,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
